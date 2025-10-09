@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladygit-comits
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m a full stack developer
 - 💞️ I’m looking to collaborate on building applications
 - 📫 How to reach me: Connect with me on LinkedIn at www.linkedin.com/in/faith-kung-u
 - 😄 Pronouns: she/her
